@@ -49,15 +49,9 @@ st.set_page_config(page_title='RFxDesk | Aerchain', page_icon='📦', layout='wi
 st.set_option('client.disableDataExport', True)
 st.markdown('''
 <style>
-    [data-testid="stAppViewContainer"], [data-testid="stHeader"] {
-        background-color: #F5F7FB;
-    }
-    [data-testid="stSidebar"] {
-        background-color: #EAF0F7;
-        border-right: 1px solid #D5DFEB;
-    }
+    /* Let Streamlit's active theme supply surfaces and text together.
+       Fixed light surfaces become unreadable if a viewer selects dark mode. */
     [data-testid="stMetric"] {
-        background-color: #FFFFFF;
         border: 1px solid #DEE6EF;
         border-top: 3px solid #CDDBEC;
         border-radius: 12px;
@@ -65,7 +59,6 @@ st.markdown('''
         box-shadow: 0 2px 6px rgba(31, 50, 78, 0.035);
     }
     [data-testid="stTabs"] [data-baseweb="tab-list"] {
-        background-color: #E7EDF5;
         border: 1px solid #D5DFEB;
         border-radius: 12px;
         padding: 6px;
@@ -82,11 +75,9 @@ st.markdown('''
         color: #D32F2F;
     }
     [data-testid="stExpander"] {
-        background-color: #FFFFFF;
         border-radius: 12px;
     }
     [data-testid="stFileUploaderDropzone"] {
-        background-color: #F0F5FC;
         border: 1px dashed #AFC3DD;
         border-radius: 12px;
     }
