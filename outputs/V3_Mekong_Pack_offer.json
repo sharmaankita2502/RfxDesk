@@ -1,0 +1,425 @@
+{
+  "vendor_name": "Mekong Pack Co., Ltd.",
+  "currency": "USD",
+  "currency_source": {
+    "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 4",
+    "evidence_text": "All prices are in US dollars (USD)"
+  },
+  "lines": [
+    {
+      "rfx_line_no": 1,
+      "vendor_item_text": "3-ply corrugated sheet (150 GSM kraft liner, B-flute, cut size)",
+      "price_as_stated": 0.454,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 6",
+      "evidence_text": "3-ply corrugated sheet (150 GSM kraft liner, B-flute, cut size) at USD 0.454 per kg"
+    },
+    {
+      "rfx_line_no": 2,
+      "vendor_item_text": "5-ply corrugated sheet (180 GSM kraft liner, BC-flute, cut size)",
+      "price_as_stated": 0.472,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 6",
+      "evidence_text": "5-ply corrugated sheet (180 GSM kraft liner, BC-flute, cut size) at USD 0.472 per kg"
+    },
+    {
+      "rfx_line_no": 3,
+      "vendor_item_text": "7-ply corrugated sheet (200 GSM kraft liner, BCB-flute)",
+      "price_as_stated": 0.563,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 6",
+      "evidence_text": "7-ply corrugated sheet (200 GSM kraft liner, BCB-flute) at USD 0.563 per kg"
+    },
+    {
+      "rfx_line_no": 4,
+      "vendor_item_text": "rsc box 3-ply, small (300x200x150 mm, B-flute, plain)",
+      "price_as_stated": 0.168,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 8",
+      "evidence_text": "rsc box 3-ply, small (300x200x150 mm, B-flute, plain) at USD 0.168 per box"
+    },
+    {
+      "rfx_line_no": 5,
+      "vendor_item_text": "rsc box 3-ply, medium (400x300x200 mm, B-flute, plain)",
+      "price_as_stated": 0.255,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 8",
+      "evidence_text": "rsc box 3-ply, medium (400x300x200 mm, B-flute, plain) at USD 0.255 per box"
+    },
+    {
+      "rfx_line_no": 6,
+      "vendor_item_text": "rsc box 5-ply, medium (450x350x250 mm, BC-flute, plain)",
+      "price_as_stated": 0.434,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 8",
+      "evidence_text": "rsc box 5-ply, medium (450x350x250 mm, BC-flute, plain) at USD 0.434 per box"
+    },
+    {
+      "rfx_line_no": 7,
+      "vendor_item_text": "rsc box 5-ply, large (500x400x300 mm, BC-flute, plain)",
+      "price_as_stated": 0.619,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 8",
+      "evidence_text": "rsc box 5-ply, large (500x400x300 mm, BC-flute, plain) at USD 0.619 per box"
+    },
+    {
+      "rfx_line_no": 8,
+      "vendor_item_text": "rsc box 5-ply, extra large (600x400x400 mm, BC-flute, plain)",
+      "price_as_stated": 0.939,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 8",
+      "evidence_text": "rsc box 5-ply, extra large (600x400x400 mm, BC-flute, plain) at USD 0.939 per box"
+    },
+    {
+      "rfx_line_no": 9,
+      "vendor_item_text": "rsc box 7-ply heavy duty (650x450x450 mm, BCB-flute, plain)",
+      "price_as_stated": 1.55,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 8",
+      "evidence_text": "rsc box 7-ply heavy duty (650x450x450 mm, BCB-flute, plain) at USD 1.55 per box"
+    },
+    {
+      "rfx_line_no": 10,
+      "vendor_item_text": "die-cut mailer box 3-ply (250x180x80 mm, E-flute)",
+      "price_as_stated": 0.14,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 9",
+      "evidence_text": "die-cut mailer box 3-ply (250x180x80 mm, E-flute) at USD 0.140 per box"
+    },
+    {
+      "rfx_line_no": 11,
+      "vendor_item_text": "die-cut tray 5-ply (400x300x100 mm, BC-flute)",
+      "price_as_stated": 0.306,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 9",
+      "evidence_text": "die-cut tray 5-ply (400x300x100 mm, BC-flute) at USD 0.306 per box"
+    },
+    {
+      "rfx_line_no": 12,
+      "vendor_item_text": "printed 5-ply box, 2 colour (450x350x250 mm, BC-flute, 2-colour flexo)",
+      "price_as_stated": 0.516,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 9",
+      "evidence_text": "printed 5-ply box, 2 colour (450x350x250 mm, BC-flute, 2-colour flexo) at USD 0.516 per box"
+    },
+    {
+      "rfx_line_no": 13,
+      "vendor_item_text": "printed 5-ply box, 4 colour (500x400x300 mm, BC-flute, 4-colour flexo)",
+      "price_as_stated": 0.793,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 9",
+      "evidence_text": "printed 5-ply box, 4 colour (500x400x300 mm, BC-flute, 4-colour flexo) at USD 0.793 per box"
+    },
+    {
+      "rfx_line_no": 14,
+      "vendor_item_text": "telescopic box 5-ply (550x350x200 mm, BC-flute, two-piece)",
+      "price_as_stated": 0.75,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 9",
+      "evidence_text": "telescopic box 5-ply (550x350x200 mm, BC-flute, two-piece) at USD 0.750 per box"
+    },
+    {
+      "rfx_line_no": 15,
+      "vendor_item_text": "master carton 5-ply (600x450x350 mm, BC-flute, bursting 18 kg/cm2)",
+      "price_as_stated": 1.01,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 9",
+      "evidence_text": "master carton 5-ply (600x450x350 mm, BC-flute, bursting 18 kg/cm2) at USD 1.01 per box"
+    },
+    {
+      "rfx_line_no": 16,
+      "vendor_item_text": "corrugated partition set (3x4 cells, fits 450x350x250 mm box)",
+      "price_as_stated": 0.101,
+      "stated_unit": "set",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 11",
+      "evidence_text": "corrugated partition set (3x4 cells, fits 450x350x250 mm box) at USD 0.101 per set"
+    },
+    {
+      "rfx_line_no": 17,
+      "vendor_item_text": "corrugated layer pad (1000x1200 mm, 3-ply)",
+      "price_as_stated": 0.204,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 11",
+      "evidence_text": "corrugated layer pad (1000x1200 mm, 3-ply) at USD 0.204 per piece"
+    },
+    {
+      "rfx_line_no": 18,
+      "vendor_item_text": "l-board edge protector (50x50x4 mm, 1.5 m length)",
+      "price_as_stated": 0.129,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 11",
+      "evidence_text": "l-board edge protector (50x50x4 mm, 1.5 m length) at USD 0.129 per piece"
+    },
+    {
+      "rfx_line_no": 19,
+      "vendor_item_text": "bopp tape, clear (48 mm x 100 m)",
+      "price_as_stated": 0.674,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 12",
+      "evidence_text": "bopp tape, clear (48 mm x 100 m) at USD 0.674 per roll"
+    },
+    {
+      "rfx_line_no": 20,
+      "vendor_item_text": "bopp tape, printed (48 mm x 100 m, 1-colour print)",
+      "price_as_stated": 0.891,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 12",
+      "evidence_text": "bopp tape, printed (48 mm x 100 m, 1-colour print) at USD 0.891 per roll"
+    },
+    {
+      "rfx_line_no": 21,
+      "vendor_item_text": "pp strapping roll (12 mm, 5 kg)",
+      "price_as_stated": 7.08,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 12",
+      "evidence_text": "pp strapping roll (12 mm, 5 kg) at USD 7.08 per roll"
+    },
+    {
+      "rfx_line_no": 22,
+      "vendor_item_text": "stretch film (500 mm, 17 micron, 2 kg)",
+      "price_as_stated": 5.72,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 12",
+      "evidence_text": "stretch film (500 mm, 17 micron, 2 kg) at USD 5.72 per roll"
+    },
+    {
+      "rfx_line_no": 23,
+      "vendor_item_text": "wooden pallet, export grade (1200x1000 mm, heat treated)",
+      "price_as_stated": 8.52,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 13",
+      "evidence_text": "wooden pallet, export grade (1200x1000 mm, heat treated) at USD 8.52 per piece"
+    },
+    {
+      "rfx_line_no": 24,
+      "vendor_item_text": "kraft paper void fill (50 GSM roll)",
+      "price_as_stated": 0.851,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 13",
+      "evidence_text": "kraft paper void fill (50 GSM roll) at USD 0.851 per kg"
+    },
+    {
+      "rfx_line_no": 25,
+      "vendor_item_text": "bubble wrap (1 m x 100 m, 10 mm bubble)",
+      "price_as_stated": 15.96,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 13",
+      "evidence_text": "bubble wrap (1 m x 100 m, 10 mm bubble) at USD 15.96 per roll"
+    },
+    {
+      "rfx_line_no": 26,
+      "vendor_item_text": "epe foam sheet (5 mm, 1 m x 100 m)",
+      "price_as_stated": 23.43,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 13",
+      "evidence_text": "epe foam sheet (5 mm, 1 m x 100 m) at USD 23.43 per roll"
+    },
+    {
+      "rfx_line_no": 27,
+      "vendor_item_text": "barcode label roll (100x50 mm, 1000 labels)",
+      "price_as_stated": 2.04,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 14",
+      "evidence_text": "barcode label roll (100x50 mm, 1000 labels) at USD 2.04 per roll"
+    },
+    {
+      "rfx_line_no": 28,
+      "vendor_item_text": "carton staples (Box of 5000, 19 mm)",
+      "price_as_stated": 5.38,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 14",
+      "evidence_text": "carton staples (Box of 5000, 19 mm) at USD 5.38 per box"
+    },
+    {
+      "rfx_line_no": 29,
+      "vendor_item_text": "honeycomb paper pad (20 mm, 1x1 m)",
+      "price_as_stated": 1.04,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 14",
+      "evidence_text": "honeycomb paper pad (20 mm, 1x1 m) at USD 1.04 per piece"
+    },
+    {
+      "rfx_line_no": 30,
+      "vendor_item_text": "tamper-evident tape (48 mm x 50 m, printed)",
+      "price_as_stated": 1.08,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 14",
+      "evidence_text": "tamper-evident tape (48 mm x 50 m, printed) at USD 1.08 per roll"
+    }
+  ],
+  "terms": [
+    {
+      "kind": "freight",
+      "value": "for delivery to Mumbai port. Import duty and inland freight in India are for the buyer's account.",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 4",
+      "evidence_text": "All prices are in US dollars (USD) and are for delivery to Mumbai port. Import duty and inland freight in India are for the buyer's account."
+    },
+    {
+      "kind": "payment",
+      "value": "30% advance and 70% on shipment",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 4",
+      "evidence_text": "Payment terms are 30% advance and 70% on shipment."
+    },
+    {
+      "kind": "lead_time",
+      "value": "40 days from order",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 4",
+      "evidence_text": "Lead time is 40 days from order."
+    },
+    {
+      "kind": "validity",
+      "value": "30 days",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 4",
+      "evidence_text": "This offer is valid for 30 days."
+    }
+  ],
+  "discounts": [],
+  "questionnaire": [
+    {
+      "question_id": 1,
+      "answer": "Yes",
+      "status": "stated",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 15",
+      "evidence_text": "We have attached our ISO 9001 certificate"
+    },
+    {
+      "question_id": 2,
+      "answer": "Yes",
+      "status": "stated",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 15",
+      "evidence_text": "and Cobb test report."
+    },
+    {
+      "question_id": 3,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 4,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 5,
+      "answer": "40 days from order",
+      "status": "stated",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 4",
+      "evidence_text": "Lead time is 40 days from order."
+    },
+    {
+      "question_id": 6,
+      "answer": "30% advance and 70% on shipment",
+      "status": "stated",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 4",
+      "evidence_text": "Payment terms are 30% advance and 70% on shipment."
+    },
+    {
+      "question_id": 7,
+      "answer": "Our courier takes about 10 days.",
+      "status": "stated",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 15",
+      "evidence_text": "Please contact us if you need samples. Our courier takes about 10 days."
+    },
+    {
+      "question_id": 8,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 9,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    }
+  ],
+  "attachments_mentioned": [
+    {
+      "name": "ISO 9001 certificate",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 15",
+      "evidence_text": "We have attached our ISO 9001 certificate"
+    },
+    {
+      "name": "Cobb test report",
+      "source_ref": "V3_Mekong_Pack_offer.docx, Paragraph 15",
+      "evidence_text": "and Cobb test report."
+    }
+  ],
+  "warnings": [],
+  "metadata": {
+    "source_file": "vendor_files/V3_Mekong_Pack_offer.docx",
+    "source_sha256": "e549dd9e8ecaef69d6133794f73ed3401699450e74b46bf1a1bcb441b9fbfbc9",
+    "model": "google/gemini-2.5-flash",
+    "extracted_at": "2026-11-13T19:08:46.751505+00:00",
+    "fingerprint": "b363ed40ff1971d9638225101ac2cf4291c19709ca4371c8ec467465dcd8c00b",
+    "extraction_version": "1",
+    "source_reader": "document-text-v1",
+    "note": "Raw model extraction. Review flags before normalization or award."
+  }
+}

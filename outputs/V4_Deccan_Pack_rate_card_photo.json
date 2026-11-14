@@ -1,0 +1,414 @@
+{
+  "vendor_name": "DECCANPACKINDUSTRIES",
+  "currency": "INR",
+  "currency_source": {
+    "source_ref": "OCR-L003",
+    "evidence_text": "RATELIST-NOV2026\uff08Rs,ex-Works,GSTextra)"
+  },
+  "lines": [
+    {
+      "rfx_line_no": 1,
+      "vendor_item_text": "3-plycorr sheet",
+      "price_as_stated": 34.5,
+      "stated_unit": "kg",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L005",
+      "evidence_text": "1 | 3-plycorr sheet | kg | 34.5"
+    },
+    {
+      "rfx_line_no": 2,
+      "vendor_item_text": "5-plycorr sheet",
+      "price_as_stated": 39.5,
+      "stated_unit": "kg",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L006",
+      "evidence_text": "2 | 5-plycorrsheet | kg | 39.5"
+    },
+    {
+      "rfx_line_no": 3,
+      "vendor_item_text": "7-plycorr sheet",
+      "price_as_stated": 44.75,
+      "stated_unit": "kg",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L007",
+      "evidence_text": "3 | 7-plycorrsheet | kg | 44.75"
+    },
+    {
+      "rfx_line_no": 4,
+      "vendor_item_text": "RSC 3-ply. small 300x200x150mm",
+      "price_as_stated": 13.5,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L008",
+      "evidence_text": "4 | RSC3-ply.small300x200x150mm | box | 13.5"
+    },
+    {
+      "rfx_line_no": 5,
+      "vendor_item_text": "RSC 3-ply. medium 400x300x200mm",
+      "price_as_stated": 19.25,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L009",
+      "evidence_text": "5 | RSC3-ply.medium400x300x200mm | box | 19.25"
+    },
+    {
+      "rfx_line_no": 6,
+      "vendor_item_text": "RSC 5-ply. medium 450x350x250mm",
+      "price_as_stated": 34.0,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L010",
+      "evidence_text": "6 | RSC5-ply.medium450x350x250mm | box | 34"
+    },
+    {
+      "rfx_line_no": 7,
+      "vendor_item_text": "RSC 5-ply. large 500x400x300mm",
+      "price_as_stated": 46.0,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L011",
+      "evidence_text": "7 | RSC5-ply.large500x400x300mm | box | 46"
+    },
+    {
+      "rfx_line_no": 8,
+      "vendor_item_text": "RSC 5-ply, extra large 600x400x400mm",
+      "price_as_stated": null,
+      "stated_unit": "box",
+      "confidence": "missing",
+      "reason": "Price not stated for this item.",
+      "source_ref": "OCR-L012",
+      "evidence_text": "8 | RSC5-ply,extralarge600x400x400mm | box"
+    },
+    {
+      "rfx_line_no": 9,
+      "vendor_item_text": "RSC 7-ply heavy duty 650x450x450mm",
+      "price_as_stated": 128.0,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L013",
+      "evidence_text": "9 | RSC7-plyheavyduty650x450x450mm | box | 128"
+    },
+    {
+      "rfx_line_no": 10,
+      "vendor_item_text": "Die-cut mailer 3-ply 250x180x80mm",
+      "price_as_stated": 10.5,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L014",
+      "evidence_text": "10 | Die-cutmailer3-ply250x180x80mm | box | 10.5"
+    },
+    {
+      "rfx_line_no": 11,
+      "vendor_item_text": "Die-cut tray 5-ply 400x300x100mm",
+      "price_as_stated": 24.25,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L015",
+      "evidence_text": "11 | Die-cuttray5-ply400x300x100mm | box | 24.25"
+    },
+    {
+      "rfx_line_no": 12,
+      "vendor_item_text": "Printed 5-ply. 2 colour 450x350x250mm",
+      "price_as_stated": 38.5,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L016",
+      "evidence_text": "12 | Printed5-ply.2colour450x350x250mm | box | 38.5"
+    },
+    {
+      "rfx_line_no": 13,
+      "vendor_item_text": "Printed 5-ply box, 4 colour",
+      "price_as_stated": null,
+      "stated_unit": null,
+      "confidence": "missing",
+      "reason": "No matching item found in the vendor document.",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "rfx_line_no": 14,
+      "vendor_item_text": "Telescopic box 5-ply",
+      "price_as_stated": null,
+      "stated_unit": null,
+      "confidence": "missing",
+      "reason": "No matching item found in the vendor document.",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "rfx_line_no": 15,
+      "vendor_item_text": "Master carton 5-ply 600x450x350mm",
+      "price_as_stated": 77.25,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L017",
+      "evidence_text": "13 | Mastercarton5-ply600x450x350mm | box | 77.25"
+    },
+    {
+      "rfx_line_no": 16,
+      "vendor_item_text": "Corrugated partition set 450x350x250mm",
+      "price_as_stated": 8.0,
+      "stated_unit": "set",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L018",
+      "evidence_text": "14 | Corrugatedpartitionset450x350x250mm | set | 8"
+    },
+    {
+      "rfx_line_no": 17,
+      "vendor_item_text": "Corrugated layer pad 1000x1200mm",
+      "price_as_stated": 15.25,
+      "stated_unit": "piece",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L019",
+      "evidence_text": "15 | Corrugatedlayerpad1000x1200mm | piece | 15.25"
+    },
+    {
+      "rfx_line_no": 18,
+      "vendor_item_text": "L-board edge protector 50x50x4mm",
+      "price_as_stated": 9.75,
+      "stated_unit": "piece",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L020",
+      "evidence_text": "16 | L-boardedgeprotector50x50x4mm | piece | 9.75"
+    },
+    {
+      "rfx_line_no": 19,
+      "vendor_item_text": "BOPP tape, clear",
+      "price_as_stated": 55.0,
+      "stated_unit": "roll",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L021",
+      "evidence_text": "17 | BOPPtape,clear | roll | 55"
+    },
+    {
+      "rfx_line_no": 20,
+      "vendor_item_text": "BOPP tape, printed",
+      "price_as_stated": null,
+      "stated_unit": "roll",
+      "confidence": "missing",
+      "reason": "Price not stated for this item.",
+      "source_ref": "OCR-L022",
+      "evidence_text": "18 | BOPPtape,printed | roll"
+    },
+    {
+      "rfx_line_no": 21,
+      "vendor_item_text": "PP strapping roll",
+      "price_as_stated": 605.0,
+      "stated_unit": "roll",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L023",
+      "evidence_text": "19 | PPstrapping roll | roll | 605"
+    },
+    {
+      "rfx_line_no": 22,
+      "vendor_item_text": "Stretch film",
+      "price_as_stated": null,
+      "stated_unit": "roll",
+      "confidence": "missing",
+      "reason": "Price not stated for this item.",
+      "source_ref": "OCR-L024",
+      "evidence_text": "20 | Stretchfilm | roll"
+    },
+    {
+      "rfx_line_no": 23,
+      "vendor_item_text": "Pallet export 1200x1000mm",
+      "price_as_stated": 703.0,
+      "stated_unit": "piece",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L025",
+      "evidence_text": "21 | Palletexport1200x1000mm | piece | 703"
+    },
+    {
+      "rfx_line_no": 24,
+      "vendor_item_text": "Kraft paper void fill",
+      "price_as_stated": 65.75,
+      "stated_unit": "kg",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L026",
+      "evidence_text": "22 | Kraftpapervoidfill | kg | 65.75"
+    },
+    {
+      "rfx_line_no": 25,
+      "vendor_item_text": "Bubble wrap",
+      "price_as_stated": 1330.0,
+      "stated_unit": "roll",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L027",
+      "evidence_text": "23 | Bubblewrap | roll | 1330"
+    },
+    {
+      "rfx_line_no": 26,
+      "vendor_item_text": "EPE foam sheet",
+      "price_as_stated": null,
+      "stated_unit": null,
+      "confidence": "missing",
+      "reason": "No matching item found in the vendor document.",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "rfx_line_no": 27,
+      "vendor_item_text": "Barcode label roll 100x50mm",
+      "price_as_stated": 169.0,
+      "stated_unit": "roll",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L028",
+      "evidence_text": "24 | Barcodelabelroll100x50mm | roll | 169"
+    },
+    {
+      "rfx_line_no": 28,
+      "vendor_item_text": "Carton staples",
+      "price_as_stated": 417.0,
+      "stated_unit": "box",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L029",
+      "evidence_text": "25 | Carton staples | box | 417"
+    },
+    {
+      "rfx_line_no": 29,
+      "vendor_item_text": "Honeycomb paper pad",
+      "price_as_stated": 89.0,
+      "stated_unit": "piece",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L030",
+      "evidence_text": "26 | Honeycombpaperpad | piece | 89"
+    },
+    {
+      "rfx_line_no": 30,
+      "vendor_item_text": "Tamper-evident tape",
+      "price_as_stated": 88.25,
+      "stated_unit": "roll",
+      "confidence": "check",
+      "reason": "Photo/OCR transcription and item match require visual review.",
+      "source_ref": "OCR-L031",
+      "evidence_text": "27 | Tamper-evidenttape | roll | 88.25"
+    }
+  ],
+  "terms": [
+    {
+      "kind": "payment",
+      "value": "15 days",
+      "source_ref": "OCR-L032",
+      "evidence_text": "Payment:15 days."
+    },
+    {
+      "kind": "freight",
+      "value": "Ex-works Hyderabad",
+      "source_ref": "OCR-L032",
+      "evidence_text": "Ex-worksHyderabad."
+    },
+    {
+      "kind": "validity",
+      "value": "till 30-Nov",
+      "source_ref": "OCR-L032",
+      "evidence_text": "Rates valid till 30-Nov."
+    },
+    {
+      "kind": "tax",
+      "value": "GST extra",
+      "source_ref": "OCR-L003",
+      "evidence_text": "GSTextra)"
+    }
+  ],
+  "discounts": [],
+  "questionnaire": [
+    {
+      "question_id": 1,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 2,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 3,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 4,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 5,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 6,
+      "answer": "15 days",
+      "status": "stated",
+      "source_ref": "OCR-L032",
+      "evidence_text": "Payment:15 days."
+    },
+    {
+      "question_id": 7,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 8,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 9,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    }
+  ],
+  "attachments_mentioned": [],
+  "warnings": [],
+  "metadata": {
+    "source_file": "vendor_files/V4_Deccan_Pack_rate_card_photo.jpg",
+    "source_sha256": "75442df2a1fa9a906298458880eb2d08c4ac5613bd7db8660af4bea35ef509ff",
+    "model": "google/gemini-2.5-flash",
+    "extracted_at": "2026-11-13T19:09:04.591572+00:00",
+    "fingerprint": "124e7e7e9563748b14cebe8cb9e99c7d17fb5c55f4ce26e83094ced08d30aadb",
+    "extraction_version": "1",
+    "source_reader": "rapidocr-1.4.4-document-v1",
+    "note": "Raw model extraction. Review flags before normalization or award."
+  }
+}

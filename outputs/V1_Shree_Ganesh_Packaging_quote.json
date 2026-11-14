@@ -1,0 +1,414 @@
+{
+  "vendor_name": "SHREE GANESH PACKAGING",
+  "currency": "INR",
+  "currency_source": {
+    "source_ref": "Sheet Rate Offer!A7",
+    "evidence_text": "OUR BEST RATES (INR, excl GST)"
+  },
+  "lines": [
+    {
+      "rfx_line_no": 1,
+      "vendor_item_text": "3-ply corr sheet",
+      "price_as_stated": 37.0,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B25",
+      "evidence_text": "3-ply corr sheet"
+    },
+    {
+      "rfx_line_no": 2,
+      "vendor_item_text": "5-ply corr sheet",
+      "price_as_stated": 40.0,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B27",
+      "evidence_text": "5-ply corr sheet"
+    },
+    {
+      "rfx_line_no": 3,
+      "vendor_item_text": "7-ply corr sheet",
+      "price_as_stated": 48.25,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B28",
+      "evidence_text": "7-ply corr sheet"
+    },
+    {
+      "rfx_line_no": 4,
+      "vendor_item_text": "RSC 3-ply, small 300x200x150 mm",
+      "price_as_stated": 1370.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B29",
+      "evidence_text": "RSC 3-ply, small 300x200x150 mm"
+    },
+    {
+      "rfx_line_no": 5,
+      "vendor_item_text": "RSC 3-ply, medium 400x300x200 mm",
+      "price_as_stated": 2185.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B30",
+      "evidence_text": "RSC 3-ply, medium 400x300x200 mm"
+    },
+    {
+      "rfx_line_no": 6,
+      "vendor_item_text": "RSC 5-ply, medium 450x350x250 mm",
+      "price_as_stated": 3705.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B31",
+      "evidence_text": "RSC 5-ply, medium 450x350x250 mm"
+    },
+    {
+      "rfx_line_no": 7,
+      "vendor_item_text": "RSC 5-ply, large 500x400x300 mm",
+      "price_as_stated": 4900.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B32",
+      "evidence_text": "RSC 5-ply, large 500x400x300 mm"
+    },
+    {
+      "rfx_line_no": 8,
+      "vendor_item_text": "RSC 5-ply, extra large 600x400x400 mm",
+      "price_as_stated": 7730.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B33",
+      "evidence_text": "RSC 5-ply, extra large 600x400x400 mm"
+    },
+    {
+      "rfx_line_no": 9,
+      "vendor_item_text": "RSC 7-ply heavy duty 650x450x450 mm",
+      "price_as_stated": 12685.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B34",
+      "evidence_text": "RSC 7-ply heavy duty 650x450x450 mm"
+    },
+    {
+      "rfx_line_no": 10,
+      "vendor_item_text": "Die-cut mailer 3-ply 250x180x80 mm",
+      "price_as_stated": 1180.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B35",
+      "evidence_text": "Die-cut mailer 3-ply 250x180x80 mm"
+    },
+    {
+      "rfx_line_no": 11,
+      "vendor_item_text": "Die-cut tray 5-ply 400x300x100 mm",
+      "price_as_stated": 2640.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B36",
+      "evidence_text": "Die-cut tray 5-ply 400x300x100 mm"
+    },
+    {
+      "rfx_line_no": 12,
+      "vendor_item_text": "Printed 5-ply, 2 colour 450x350x250 mm",
+      "price_as_stated": 4160.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B37",
+      "evidence_text": "Printed 5-ply, 2 colour 450x350x250 mm"
+    },
+    {
+      "rfx_line_no": 13,
+      "vendor_item_text": "Printed 5-ply, 4 colour 500x400x300 mm",
+      "price_as_stated": 6675.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B38",
+      "evidence_text": "Printed 5-ply, 4 colour 500x400x300 mm"
+    },
+    {
+      "rfx_line_no": 14,
+      "vendor_item_text": "Telescopic 5-ply 550x350x200 mm",
+      "price_as_stated": 6360.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B39",
+      "evidence_text": "Telescopic 5-ply 550x350x200 mm"
+    },
+    {
+      "rfx_line_no": 15,
+      "vendor_item_text": "Master carton 5-ply 600x450x350 mm",
+      "price_as_stated": 8065.0,
+      "stated_unit": "100 pcs",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B40",
+      "evidence_text": "Master carton 5-ply 600x450x350 mm"
+    },
+    {
+      "rfx_line_no": 16,
+      "vendor_item_text": "Corrugated partition set 450x350x250 mm",
+      "price_as_stated": 8.75,
+      "stated_unit": "set",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B10",
+      "evidence_text": "Corrugated partition set 450x350x250 mm"
+    },
+    {
+      "rfx_line_no": 17,
+      "vendor_item_text": "Corrugated layer pad 1000x1200 mm",
+      "price_as_stated": 18.0,
+      "stated_unit": "piece",
+      "confidence": "check",
+      "reason": "Price is approximate, stated as '~18'",
+      "source_ref": "Sheet Rate Offer!B11",
+      "evidence_text": "Corrugated layer pad 1000x1200 mm"
+    },
+    {
+      "rfx_line_no": 18,
+      "vendor_item_text": "L-board edge protector 50x50x4 mm",
+      "price_as_stated": 11.5,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B12",
+      "evidence_text": "L-board edge protector 50x50x4 mm"
+    },
+    {
+      "rfx_line_no": 19,
+      "vendor_item_text": "BOPP tape, clear",
+      "price_as_stated": 62.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B13",
+      "evidence_text": "BOPP tape, clear"
+    },
+    {
+      "rfx_line_no": 20,
+      "vendor_item_text": "BOPP tape, printed",
+      "price_as_stated": 76.25,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B14",
+      "evidence_text": "BOPP tape, printed"
+    },
+    {
+      "rfx_line_no": 21,
+      "vendor_item_text": "PP strapping roll",
+      "price_as_stated": 667.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B15",
+      "evidence_text": "PP strapping roll"
+    },
+    {
+      "rfx_line_no": 22,
+      "vendor_item_text": "Stretch film",
+      "price_as_stated": 489.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B16",
+      "evidence_text": "Stretch film"
+    },
+    {
+      "rfx_line_no": 23,
+      "vendor_item_text": "Pallet export 1200x1000 mm",
+      "price_as_stated": 803.0,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B17",
+      "evidence_text": "Pallet export 1200x1000 mm"
+    },
+    {
+      "rfx_line_no": 24,
+      "vendor_item_text": "Kraft paper void fill",
+      "price_as_stated": 69.75,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B18",
+      "evidence_text": "Kraft paper void fill"
+    },
+    {
+      "rfx_line_no": 25,
+      "vendor_item_text": "Bubble wrap",
+      "price_as_stated": 1379.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B19",
+      "evidence_text": "Bubble wrap"
+    },
+    {
+      "rfx_line_no": 26,
+      "vendor_item_text": "EPE foam sheet",
+      "price_as_stated": 1992.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B20",
+      "evidence_text": "EPE foam sheet"
+    },
+    {
+      "rfx_line_no": 27,
+      "vendor_item_text": "Barcode label roll 100x50 mm",
+      "price_as_stated": 174.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B21",
+      "evidence_text": "Barcode label roll 100x50 mm"
+    },
+    {
+      "rfx_line_no": 28,
+      "vendor_item_text": "Carton staples",
+      "price_as_stated": 461.0,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B22",
+      "evidence_text": "Carton staples"
+    },
+    {
+      "rfx_line_no": 29,
+      "vendor_item_text": "Honeycomb paper pad",
+      "price_as_stated": 90.75,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B23",
+      "evidence_text": "Honeycomb paper pad"
+    },
+    {
+      "rfx_line_no": 30,
+      "vendor_item_text": "Tamper-evident tape",
+      "price_as_stated": 95.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "Sheet Rate Offer!B24",
+      "evidence_text": "Tamper-evident tape"
+    }
+  ],
+  "terms": [
+    {
+      "kind": "freight",
+      "value": "Delivered to your plant.",
+      "source_ref": "Sheet Rate Offer!A41",
+      "evidence_text": "Delivered to your plant."
+    },
+    {
+      "kind": "payment",
+      "value": "30 days credit.",
+      "source_ref": "Sheet Rate Offer!A41",
+      "evidence_text": "Payment 30 days credit."
+    },
+    {
+      "kind": "validity",
+      "value": "30 days.",
+      "source_ref": "Sheet Rate Offer!A41",
+      "evidence_text": "Offer valid 30 days."
+    },
+    {
+      "kind": "tax",
+      "value": "excl GST",
+      "source_ref": "Sheet Rate Offer!A7",
+      "evidence_text": "OUR BEST RATES (INR, excl GST)"
+    }
+  ],
+  "discounts": [],
+  "questionnaire": [
+    {
+      "question_id": 1,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 2,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 3,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 4,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 5,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 6,
+      "answer": "30 days credit",
+      "status": "stated",
+      "source_ref": "Sheet Rate Offer!A41",
+      "evidence_text": "Payment 30 days credit."
+    },
+    {
+      "question_id": 7,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 8,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 9,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    }
+  ],
+  "attachments_mentioned": [],
+  "warnings": [],
+  "metadata": {
+    "source_file": "vendor_files/V1_Shree_Ganesh_Packaging_quote.xlsx",
+    "source_sha256": "9ed0450a39fb937db171763e1952769a85ce8e1e0ea90302b0666c9e1a396145",
+    "model": "google/gemini-2.5-flash",
+    "extracted_at": "2026-11-13T19:07:59.248623+00:00",
+    "fingerprint": "263c47f9d5dd3a5360fe438c7f83a821f35203f707168368dfcbf083805ef827",
+    "extraction_version": "1",
+    "source_reader": "document-text-v1",
+    "note": "Raw model extraction. Review flags before normalization or award."
+  }
+}

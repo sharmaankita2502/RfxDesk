@@ -1,0 +1,420 @@
+{
+  "vendor_name": "Gujarat Kraft & Boards",
+  "currency": "INR",
+  "currency_source": {
+    "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 4",
+    "evidence_text": "All rates are in Indian rupees (INR) per single unit indicated, not per 100 pieces."
+  },
+  "lines": [
+    {
+      "rfx_line_no": 1,
+      "vendor_item_text": "3-ply corrugated sheet",
+      "price_as_stated": 38.0,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 8",
+      "evidence_text": "1 | 3-ply corrugated sheet | 150 GSM kraft liner, B-flute, cut size | 69000 | kg | 38.00"
+    },
+    {
+      "rfx_line_no": 2,
+      "vendor_item_text": "5-ply corrugated sheet",
+      "price_as_stated": 42.0,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 9",
+      "evidence_text": "2 | 5-ply corrugated sheet | 180 GSM kraft liner, BC-flute, cut size | 86000 | kg | 42.00"
+    },
+    {
+      "rfx_line_no": 3,
+      "vendor_item_text": "7-ply corrugated sheet",
+      "price_as_stated": 49.25,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 10",
+      "evidence_text": "3 | 7-ply corrugated sheet | 200 GSM kraft liner, BCB-flute | 11500 | kg | 49.25"
+    },
+    {
+      "rfx_line_no": 4,
+      "vendor_item_text": "RSC box 3-ply, small",
+      "price_as_stated": 14.25,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 11",
+      "evidence_text": "4 | RSC box 3-ply, small | 300x200x150 mm, B-flute, plain | 114500 | box | 14.25"
+    },
+    {
+      "rfx_line_no": 5,
+      "vendor_item_text": "RSC box 3-ply, medium",
+      "price_as_stated": 21.5,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 12",
+      "evidence_text": "5 | RSC box 3-ply, medium | 400x300x200 mm, B-flute, plain | 86000 | box | 21.50"
+    },
+    {
+      "rfx_line_no": 6,
+      "vendor_item_text": "RSC box 5-ply, medium",
+      "price_as_stated": 37.75,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 13",
+      "evidence_text": "6 | RSC box 5-ply, medium | 450x350x250 mm, BC-flute, plain | 69000 | box | 37.75"
+    },
+    {
+      "rfx_line_no": 7,
+      "vendor_item_text": "RSC box 5-ply, large",
+      "price_as_stated": 53.5,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 14",
+      "evidence_text": "7 | RSC box 5-ply, large | 500x400x300 mm, BC-flute, plain | 51500 | box | 53.50"
+    },
+    {
+      "rfx_line_no": 8,
+      "vendor_item_text": "RSC box 5-ply, extra large",
+      "price_as_stated": 79.5,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 15",
+      "evidence_text": "8 | RSC box 5-ply, extra large | 600x400x400 mm, BC-flute, plain | 34500 | box | 79.50"
+    },
+    {
+      "rfx_line_no": 9,
+      "vendor_item_text": "RSC box 7-ply heavy duty",
+      "price_as_stated": 136.0,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 16",
+      "evidence_text": "9 | RSC box 7-ply heavy duty | 650x450x450 mm, BCB-flute, plain | 11500 | box | 136.00"
+    },
+    {
+      "rfx_line_no": 10,
+      "vendor_item_text": "Die-cut mailer box 3-ply",
+      "price_as_stated": 12.25,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 17",
+      "evidence_text": "10 | Die-cut mailer box 3-ply | 250x180x80 mm, E-flute | 57500 | box | 12.25"
+    },
+    {
+      "rfx_line_no": 11,
+      "vendor_item_text": "Die-cut tray 5-ply",
+      "price_as_stated": 27.75,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 18",
+      "evidence_text": "11 | Die-cut tray 5-ply | 400x300x100 mm, BC-flute | 28500 | box | 27.75"
+    },
+    {
+      "rfx_line_no": 12,
+      "vendor_item_text": "Printed 5-ply box, 2 colour",
+      "price_as_stated": 43.5,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 19",
+      "evidence_text": "12 | Printed 5-ply box, 2 colour | 450x350x250 mm, BC-flute, 2-colour flexo | 46000 | box | 43.50"
+    },
+    {
+      "rfx_line_no": 13,
+      "vendor_item_text": "Printed 5-ply box, 4 colour",
+      "price_as_stated": 70.25,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 20",
+      "evidence_text": "13 | Printed 5-ply box, 4 colour | 500x400x300 mm, BC-flute, 4-colour flexo | 23000 | box | 70.25"
+    },
+    {
+      "rfx_line_no": 14,
+      "vendor_item_text": "Telescopic box 5-ply",
+      "price_as_stated": 64.5,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 21",
+      "evidence_text": "14 | Telescopic box 5-ply | 550x350x200 mm, BC-flute, two-piece | 8600 | box | 64.50"
+    },
+    {
+      "rfx_line_no": 15,
+      "vendor_item_text": "Master carton 5-ply",
+      "price_as_stated": 83.75,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 22",
+      "evidence_text": "15 | Master carton 5-ply | 600x450x350 mm, BC-flute, bursting 18 kg/cm2 | 17000 | box | 83.75"
+    },
+    {
+      "rfx_line_no": 16,
+      "vendor_item_text": "Corrugated partition set",
+      "price_as_stated": 9.0,
+      "stated_unit": "set",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 23",
+      "evidence_text": "16 | Corrugated partition set | 3x4 cells, fits 450x350x250 mm box | 69000 | set | 9.00"
+    },
+    {
+      "rfx_line_no": 17,
+      "vendor_item_text": "Corrugated layer pad",
+      "price_as_stated": 18.25,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 24",
+      "evidence_text": "17 | Corrugated layer pad | 1000x1200 mm, 3-ply | 23000 | piece | 18.25"
+    },
+    {
+      "rfx_line_no": 18,
+      "vendor_item_text": "L-board edge protector",
+      "price_as_stated": 11.5,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 25",
+      "evidence_text": "18 | L-board edge protector | 50x50x4 mm, 1.5 m length | 34500 | piece | 11.50"
+    },
+    {
+      "rfx_line_no": 19,
+      "vendor_item_text": "BOPP tape, clear",
+      "price_as_stated": 63.5,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 26",
+      "evidence_text": "19 | BOPP tape, clear | 48 mm x 100 m | 17000 | roll | 63.50"
+    },
+    {
+      "rfx_line_no": 20,
+      "vendor_item_text": "BOPP tape, printed",
+      "price_as_stated": 77.25,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 27",
+      "evidence_text": "20 | BOPP tape, printed | 48 mm x 100 m, 1-colour print | 8600 | roll | 77.25"
+    },
+    {
+      "rfx_line_no": 21,
+      "vendor_item_text": "PP strapping roll",
+      "price_as_stated": 685.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 28",
+      "evidence_text": "21 | PP strapping roll | 12 mm, 5 kg | 2300 | roll | 685.00"
+    },
+    {
+      "rfx_line_no": 22,
+      "vendor_item_text": "Stretch film",
+      "price_as_stated": 505.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 29",
+      "evidence_text": "22 | Stretch film | 500 mm, 17 micron, 2 kg | 4600 | roll | 505.00"
+    },
+    {
+      "rfx_line_no": 23,
+      "vendor_item_text": "Wooden pallet, export grade",
+      "price_as_stated": 785.0,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 30",
+      "evidence_text": "23 | Wooden pallet, export grade | 1200x1000 mm, heat treated | 2900 | piece | 785.00"
+    },
+    {
+      "rfx_line_no": 24,
+      "vendor_item_text": "Kraft paper void fill",
+      "price_as_stated": 74.5,
+      "stated_unit": "kg",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 31",
+      "evidence_text": "24 | Kraft paper void fill | 50 GSM roll | 3400 | kg | 74.50"
+    },
+    {
+      "rfx_line_no": 25,
+      "vendor_item_text": "Bubble wrap",
+      "price_as_stated": 1425.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 32",
+      "evidence_text": "25 | Bubble wrap | 1 m x 100 m, 10 mm bubble | 860 | roll | 1425.00"
+    },
+    {
+      "rfx_line_no": 26,
+      "vendor_item_text": "EPE foam sheet",
+      "price_as_stated": 2125.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 33",
+      "evidence_text": "26 | EPE foam sheet | 5 mm, 1 m x 100 m | 570 | roll | 2125.00"
+    },
+    {
+      "rfx_line_no": 27,
+      "vendor_item_text": "Barcode label roll",
+      "price_as_stated": 174.0,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 34",
+      "evidence_text": "27 | Barcode label roll | 100x50 mm, 1000 labels | 1700 | roll | 174.00"
+    },
+    {
+      "rfx_line_no": 28,
+      "vendor_item_text": "Carton staples",
+      "price_as_stated": 465.0,
+      "stated_unit": "box",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 35",
+      "evidence_text": "28 | Carton staples | Box of 5000, 19 mm | 460 | box | 465.00"
+    },
+    {
+      "rfx_line_no": 29,
+      "vendor_item_text": "Honeycomb paper pad",
+      "price_as_stated": 99.5,
+      "stated_unit": "piece",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 36",
+      "evidence_text": "29 | Honeycomb paper pad | 20 mm, 1x1 m | 3400 | piece | 99.50"
+    },
+    {
+      "rfx_line_no": 30,
+      "vendor_item_text": "Tamper-evident tape",
+      "price_as_stated": 97.25,
+      "stated_unit": "roll",
+      "confidence": "sure",
+      "reason": "",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 37",
+      "evidence_text": "30 | Tamper-evident tape | 48 mm x 50 m, printed | 2900 | roll | 97.25"
+    }
+  ],
+  "terms": [
+    {
+      "kind": "freight",
+      "value": "extra, charged at actuals from Vapi to your plant in Chakan, Pune. The amount will be confirmed before purchase order acceptance.",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 40-42",
+      "evidence_text": "- Freight extra, charged at actuals from Vapi to your plant in Chakan, Pune.\n  Freight is not included in the rates above. The amount will be confirmed\n  before purchase order acceptance."
+    },
+    {
+      "kind": "tax",
+      "value": "GST extra as applicable; GST is not included in the quoted rates.",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 43",
+      "evidence_text": "- GST extra as applicable; GST is not included in the quoted rates."
+    },
+    {
+      "kind": "payment",
+      "value": "60 days credit from invoice date.",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 44",
+      "evidence_text": "- Payment: 60 days credit from invoice date."
+    },
+    {
+      "kind": "lead_time",
+      "value": "12 calendar days from purchase order confirmation.",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 45",
+      "evidence_text": "- Lead time: 12 calendar days from purchase order confirmation."
+    },
+    {
+      "kind": "validity",
+      "value": "30 days from the quotation date.",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 46",
+      "evidence_text": "- Validity: 30 days from the quotation date."
+    }
+  ],
+  "discounts": [],
+  "questionnaire": [
+    {
+      "question_id": 1,
+      "answer": "Yes",
+      "status": "stated",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 49",
+      "evidence_text": "Our ISO certificate and last bursting strength test report are with you already."
+    },
+    {
+      "question_id": 2,
+      "answer": "Yes",
+      "status": "stated",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 49",
+      "evidence_text": "Our ISO certificate and last bursting strength test report are with you already."
+    },
+    {
+      "question_id": 3,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 4,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 5,
+      "answer": "12 calendar days",
+      "status": "stated",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 45",
+      "evidence_text": "- Lead time: 12 calendar days from purchase order confirmation."
+    },
+    {
+      "question_id": 6,
+      "answer": "60 days credit from invoice date",
+      "status": "stated",
+      "source_ref": "V5_Gujarat_Kraft_email.eml, Body line 44",
+      "evidence_text": "- Payment: 60 days credit from invoice date."
+    },
+    {
+      "question_id": 7,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 8,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    },
+    {
+      "question_id": 9,
+      "answer": null,
+      "status": "missing",
+      "source_ref": "",
+      "evidence_text": ""
+    }
+  ],
+  "attachments_mentioned": [],
+  "warnings": [],
+  "metadata": {
+    "source_file": "vendor_files/V5_Gujarat_Kraft_email.eml",
+    "source_sha256": "d41419a25a5ee70a5c14f0a76d68b4ac6ec962559a16b924da148dd6468b3d4c",
+    "model": "google/gemini-2.5-flash",
+    "extracted_at": "2026-11-13T19:09:23.232421+00:00",
+    "fingerprint": "a86ceb60beb42d4bd0fcfbe3f1e9aa93986b33d0be5a3bec228dbe2ccd192a53",
+    "extraction_version": "1",
+    "source_reader": "document-text-v1",
+    "note": "Raw model extraction. Review flags before normalization or award."
+  }
+}

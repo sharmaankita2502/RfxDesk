@@ -1,0 +1,263 @@
+{
+  "category": "Corrugated packaging",
+  "lines": [
+    {
+      "line_no": 1,
+      "name": "3-ply corrugated sheet",
+      "spec": "150 GSM kraft liner, B-flute, cut size",
+      "unit": "kg",
+      "yearly_quantity": 77300
+    },
+    {
+      "line_no": 2,
+      "name": "5-ply corrugated sheet",
+      "spec": "180 GSM kraft liner, BC-flute, cut size",
+      "unit": "kg",
+      "yearly_quantity": 96300
+    },
+    {
+      "line_no": 3,
+      "name": "7-ply corrugated sheet",
+      "spec": "200 GSM kraft liner, BCB-flute",
+      "unit": "kg",
+      "yearly_quantity": 12900
+    },
+    {
+      "line_no": 4,
+      "name": "RSC box 3-ply, small",
+      "spec": "300x200x150 mm, B-flute, plain",
+      "unit": "box",
+      "yearly_quantity": 128200
+    },
+    {
+      "line_no": 5,
+      "name": "RSC box 3-ply, medium",
+      "spec": "400x300x200 mm, B-flute, plain",
+      "unit": "box",
+      "yearly_quantity": 96300
+    },
+    {
+      "line_no": 6,
+      "name": "RSC box 5-ply, medium",
+      "spec": "450x350x250 mm, BC-flute, plain",
+      "unit": "box",
+      "yearly_quantity": 77300
+    },
+    {
+      "line_no": 7,
+      "name": "RSC box 5-ply, large",
+      "spec": "500x400x300 mm, BC-flute, plain",
+      "unit": "box",
+      "yearly_quantity": 57700
+    },
+    {
+      "line_no": 8,
+      "name": "RSC box 5-ply, extra large",
+      "spec": "600x400x400 mm, BC-flute, plain",
+      "unit": "box",
+      "yearly_quantity": 38600
+    },
+    {
+      "line_no": 9,
+      "name": "RSC box 7-ply heavy duty",
+      "spec": "650x450x450 mm, BCB-flute, plain",
+      "unit": "box",
+      "yearly_quantity": 12900
+    },
+    {
+      "line_no": 10,
+      "name": "Die-cut mailer box 3-ply",
+      "spec": "250x180x80 mm, E-flute",
+      "unit": "box",
+      "yearly_quantity": 64400
+    },
+    {
+      "line_no": 11,
+      "name": "Die-cut tray 5-ply",
+      "spec": "400x300x100 mm, BC-flute",
+      "unit": "box",
+      "yearly_quantity": 31900
+    },
+    {
+      "line_no": 12,
+      "name": "Printed 5-ply box, 2 colour",
+      "spec": "450x350x250 mm, BC-flute, 2-colour flexo",
+      "unit": "box",
+      "yearly_quantity": 51500
+    },
+    {
+      "line_no": 13,
+      "name": "Printed 5-ply box, 4 colour",
+      "spec": "500x400x300 mm, BC-flute, 4-colour flexo",
+      "unit": "box",
+      "yearly_quantity": 25800
+    },
+    {
+      "line_no": 14,
+      "name": "Telescopic box 5-ply",
+      "spec": "550x350x200 mm, BC-flute, two-piece",
+      "unit": "box",
+      "yearly_quantity": 9600
+    },
+    {
+      "line_no": 15,
+      "name": "Master carton 5-ply",
+      "spec": "600x450x350 mm, BC-flute, bursting 18 kg/cm2",
+      "unit": "box",
+      "yearly_quantity": 19000
+    },
+    {
+      "line_no": 16,
+      "name": "Corrugated partition set",
+      "spec": "3x4 cells, fits 450x350x250 mm box",
+      "unit": "set",
+      "yearly_quantity": 77300
+    },
+    {
+      "line_no": 17,
+      "name": "Corrugated layer pad",
+      "spec": "1000x1200 mm, 3-ply",
+      "unit": "piece",
+      "yearly_quantity": 25800
+    },
+    {
+      "line_no": 18,
+      "name": "L-board edge protector",
+      "spec": "50x50x4 mm, 1.5 m length",
+      "unit": "piece",
+      "yearly_quantity": 38600
+    },
+    {
+      "line_no": 19,
+      "name": "BOPP tape, clear",
+      "spec": "48 mm x 100 m",
+      "unit": "roll",
+      "yearly_quantity": 19000
+    },
+    {
+      "line_no": 20,
+      "name": "BOPP tape, printed",
+      "spec": "48 mm x 100 m, 1-colour print",
+      "unit": "roll",
+      "yearly_quantity": 9600
+    },
+    {
+      "line_no": 21,
+      "name": "PP strapping roll",
+      "spec": "12 mm, 5 kg",
+      "unit": "roll",
+      "yearly_quantity": 2600
+    },
+    {
+      "line_no": 22,
+      "name": "Stretch film",
+      "spec": "500 mm, 17 micron, 2 kg",
+      "unit": "roll",
+      "yearly_quantity": 5200
+    },
+    {
+      "line_no": 23,
+      "name": "Wooden pallet, export grade",
+      "spec": "1200x1000 mm, heat treated",
+      "unit": "piece",
+      "yearly_quantity": 3200
+    },
+    {
+      "line_no": 24,
+      "name": "Kraft paper void fill",
+      "spec": "50 GSM roll",
+      "unit": "kg",
+      "yearly_quantity": 3800
+    },
+    {
+      "line_no": 25,
+      "name": "Bubble wrap",
+      "spec": "1 m x 100 m, 10 mm bubble",
+      "unit": "roll",
+      "yearly_quantity": 1000
+    },
+    {
+      "line_no": 26,
+      "name": "EPE foam sheet",
+      "spec": "5 mm, 1 m x 100 m",
+      "unit": "roll",
+      "yearly_quantity": 600
+    },
+    {
+      "line_no": 27,
+      "name": "Barcode label roll",
+      "spec": "100x50 mm, 1000 labels",
+      "unit": "roll",
+      "yearly_quantity": 1900
+    },
+    {
+      "line_no": 28,
+      "name": "Carton staples",
+      "spec": "Box of 5000, 19 mm",
+      "unit": "box",
+      "yearly_quantity": 500
+    },
+    {
+      "line_no": 29,
+      "name": "Honeycomb paper pad",
+      "spec": "20 mm, 1x1 m",
+      "unit": "piece",
+      "yearly_quantity": 3800
+    },
+    {
+      "line_no": 30,
+      "name": "Tamper-evident tape",
+      "spec": "48 mm x 50 m, printed",
+      "unit": "roll",
+      "yearly_quantity": 3200
+    }
+  ],
+  "questionnaire": [
+    {
+      "question_id": 1,
+      "question": "Valid ISO 9001 certificate?",
+      "rule": "Must be Yes"
+    },
+    {
+      "question_id": 2,
+      "question": "Bursting strength test report attached?",
+      "rule": "Must be Yes"
+    },
+    {
+      "question_id": 3,
+      "question": "Cobb value, water absorption (g/m2)",
+      "rule": "Must be at or below 25"
+    },
+    {
+      "question_id": 4,
+      "question": "Monthly capacity (boxes)",
+      "rule": "Info only"
+    },
+    {
+      "question_id": 5,
+      "question": "Lead time (days)",
+      "rule": "Preferred 21 or less"
+    },
+    {
+      "question_id": 6,
+      "question": "Payment terms",
+      "rule": "Info only"
+    },
+    {
+      "question_id": 7,
+      "question": "Free samples within 7 days?",
+      "rule": "Info only"
+    },
+    {
+      "question_id": 8,
+      "question": "Customer references (number)",
+      "rule": "Info only"
+    },
+    {
+      "question_id": 9,
+      "question": "QUALITY GATE",
+      "rule": "Pass = rows 2, 3 are Yes and Cobb at or below limit"
+    }
+  ],
+  "scenario": "Set 2: Meridian Foods, Nashik plant, December 2026 procurement"
+}
